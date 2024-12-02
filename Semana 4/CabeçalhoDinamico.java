@@ -1,4 +1,4 @@
-public class Main{
+public class CabeçalhoDinamico{
     public static void main(String[] args){
         int var = 40;
         for(int i=0; i < var; i++){
